@@ -182,18 +182,5 @@ This project is built for **educational and demonstration purposes only**. The p
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙋 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
 
 > ⭐ If you found this project helpful, please give it a star on GitHub!
